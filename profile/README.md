@@ -13,3 +13,10 @@ The United Dodgeball League is a competitive community dedicated to the TF2 Dodg
 ## What is TF2 Dodgeball?
 
 Dodgeball is a popular Team Fortress 2 custom gamemode where players (as Pyro) must use their airblast to deflect incoming rockets at their opponents. The rockets speed up with each airblast, creating fast-paced, skill-based gameplay that tests reaction time, prediction, and movement mechanics.
+
+## Socials
+
+- [Discord](https://discord.gg/MwRzwgggBb)
+- [Twitch](https://twitch.tv/dodgeballtf)
+- [Patreon](https://www.patreon.com/cw/UnitedDodgeballLeague)
+- [Steam Group](https://steamcommunity.com/groups/tf2dodgeball)
