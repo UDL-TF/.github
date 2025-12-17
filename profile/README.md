@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/udl.png" alt="UDL Logo" />
+  <img width="512px" src="assets/udl.png" alt="UDL Logo" />
 </div>
 
 # United Dodgeball League (UDL)
